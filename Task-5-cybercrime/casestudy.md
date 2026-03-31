@@ -1,11 +1,11 @@
-**Case Study: Phishing**
+*Case Study: Ransomware
 
+Ransomware is a type of cybercrime where attackers infect a victim’s computer or network with malicious software that encrypts files, rendering them inaccessible. The attacker then demands a ransom—usually in cryptocurrency—in exchange for the decryption key.
 
+The typical attack follows several steps. First, the attacker delivers the malware through phishing emails, malicious links, or infected downloads. Second, when the victim opens the attachment or clicks the link, the ransomware installs itself silently in the background. Third, the malware encrypts critical files and often displays a message informing the victim that their data has been locked. Fourth, the attacker demands a ransom payment, threatening permanent deletion or public release of sensitive data if the payment is not made. Finally, if the victim pays, there is no guarantee the files will be restored; if they refuse, business operations or personal access may be disrupted indefinitely.
 
-Phishing is a type of cybercrime where attackers impersonate trusted entities—such as banks, government agencies, or popular companies—to trick individuals into revealing sensitive information like passwords, OTPs, or credit card details.
+Ransomware can target anyone using digital devices, but businesses, hospitals, and government organizations are especially vulnerable because they rely heavily on uninterrupted access to data. Individuals can also be victims if personal devices are infected.
 
-This crime typically follows a clear sequence. First, the attacker creates a fake message, often in the form of an email, SMS, or website, designed to look legitimate. Second, the message includes an urgent or attractive prompt, such as “Your account will be blocked” or “You’ve won a prize,” along with a link. Third, the victim clicks the link and is redirected to a fraudulent website that closely resembles the real one. Fourth, the victim unknowingly enters confidential information, which is immediately captured by the attacker. Finally, the attacker uses this data to access accounts or commit financial fraud.
+The consequences are severe. Victims may face financial loss from ransom payments, operational downtime, loss of sensitive data, reputational damage, and potential legal liabilities if customer information is compromised. In some cases, attacks have forced organizations to shut down temporarily, highlighting the widespread impact of this cybercrime.
 
-Phishing commonly targets individuals who frequently use online banking, e-commerce platforms, or social media, especially those who may not be aware of cybersecurity risks. Elderly users and first-time internet users are particularly vulnerable.
-
-The consequences can be severe. Victims may suffer financial loss, identity theft, and unauthorized account access. In some cases, personal or professional reputations can also be damaged. Additionally, organizations whose identities are spoofed may lose customer trust. Overall, phishing remains a widespread and dangerous cyber threat due to its simplicity and effectiveness.
+Source Example: The 2017 WannaCry ransomware attack affected hundreds of thousands of computers worldwide, causing billions in damages.
